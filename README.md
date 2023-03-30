@@ -1,6 +1,6 @@
 ## MERN BMI CALCULATOR
 
-Live link: will be added later
+Live link: https://moonlit-speculoos-68f4e6.netlify.app/
 
 ### Features
 
